@@ -5,6 +5,7 @@ Geospatial clusters indicate a high degree of similarity within a cluster/area. 
 It shows that within a geographic area, group of interconnected companies and related institutions that cooperate and compete to create wealth. 
 
 Percentage of Transport, Postal and Warehousing Employment population greater than 0.1 by DNZ
+<img src="/fig/TPWEmpPop0.1.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
 ![](/fig/TPWEmpPop0.1.png)
 
 PCA plot for the geometry and the percentage of Transport, Postal and Warehousing Employment population by destination zone
@@ -14,7 +15,7 @@ Global Moran’s I (Queen) with Moran’s index 0.2242 and p-value 0.0
 ![](/fig/GlobalMoranQ.png)
 
 OLS regression summary for Transport, Postal and Warehousing and different industries by LGA with and without considering spatial dependency
-![](/fig/PLSofTPW.png)
+![](/fig/OLSofTPW.png)
 
 Data Sources:
 1. Australian Bureau of Statistics (2016). Destination Zones - 2021 - Shapefile. Australian Statistical Geography Standard (ASGS) Edition 3, accessed 10 July 2023. https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/access-and-downloads/digital-boundary-files
